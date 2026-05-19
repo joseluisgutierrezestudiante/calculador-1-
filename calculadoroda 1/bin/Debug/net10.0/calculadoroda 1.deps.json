@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "calculadoroda 1/1.0.0": {
+        "runtime": {
+          "calculadoroda 1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "calculadoroda 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
